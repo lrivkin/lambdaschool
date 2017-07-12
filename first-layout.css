@@ -1,0 +1,19 @@
+body{
+    width: 100%;
+    background-color: yellow;
+    border-top: solid;
+    border-top-width: 80px;
+    border-top-color: red;
+    margin: 0px;
+}
+
+div {
+    background-color: blue;
+    height: 400px;
+    width: 80%;
+    margin: auto;
+    border-bottom: solid;
+    border-bottom-width: 60px;
+    border-bottom-color: #008200;
+    
+}
