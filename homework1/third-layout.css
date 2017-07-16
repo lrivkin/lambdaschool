@@ -1,0 +1,43 @@
+
+body {
+    margin: 0px;
+    background-color: white;
+    height: 550px;
+    width: 500px;
+    border-top: solid 60px purple;
+}
+
+.red {
+    border-top: solid 20px red;
+    width: 75%;
+    background-color: red;
+    height: inherit;
+    padding: 0px;
+    margin: auto;
+}
+
+.box {
+    margin: auto;
+    margin-top: 20px;
+    width: 70%;
+    height: 150px;
+    background-color: blue;
+}
+
+.yellow {
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 70px;
+    height: 70px;
+    background-color: yellow;
+}
+
+.green {
+    float: right;
+    margin-top: 20px;
+    margin-right: 20px;
+    width: 140px;
+    height: 100px;
+    background-color: green;
+}

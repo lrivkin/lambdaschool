@@ -1,0 +1,22 @@
+html {
+    background-color: white;
+}
+
+body{
+    width: 450px;
+    background-color: yellow;
+    border-top: solid;
+    border-top-width: 80px;
+    border-top-color: red;
+    margin: 0px;
+}
+
+div {
+    background-color: blue;
+    height: 400px;
+    width: 75%;
+    margin: auto;
+    border-bottom: solid;
+    border-bottom-width: 40px;
+    border-bottom-color: #008200;
+}
