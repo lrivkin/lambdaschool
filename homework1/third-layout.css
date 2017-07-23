@@ -5,39 +5,40 @@ body {
     height: 550px;
     width: 500px;
     border-top: solid 60px purple;
+    padding: 0px;
 }
 
 .red {
-    border-top: solid 20px red;
     width: 75%;
     background-color: red;
-    height: inherit;
-    padding: 0px;
+    height: 550px;
     margin: auto;
+    margin-top: 0px;
+    padding-top: 20px;
 }
 
-.box {
+.blue {
     margin: auto;
-    margin-top: 20px;
     width: 70%;
+    margin-top: 20px;
     height: 150px;
     background-color: blue;
 }
 
 .yellow {
     float: left;
-    margin-left: 20px;
+    margin-left: 15px;
     margin-top: 20px;
-    width: 70px;
+    width: 25%;
     height: 70px;
     background-color: yellow;
 }
 
 .green {
-    float: right;
+    float: left;
     margin-top: 20px;
-    margin-right: 20px;
-    width: 140px;
+    margin-left: 15px;
+    width: 58%;
     height: 100px;
     background-color: green;
 }
