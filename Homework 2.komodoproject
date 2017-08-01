@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="976272ed-18f9-174e-b578-7185ec1d3f05" kpf_version="5" name="Homework 2.komodoproject">
+<file id="343aaa1d-cefd-3447-95c6-871c3db720f5" idref="976272ed-18f9-174e-b578-7185ec1d3f05" name="bootstrapblog.html" url="homework2/bootstrapblog.html">
+</file>
+<file id="ecd4c98d-f1e6-ca4d-b6db-ead4c24d92c3" idref="976272ed-18f9-174e-b578-7185ec1d3f05" name="custom.css" url="custom.css">
+</file>
+<preference-set idref="976272ed-18f9-174e-b578-7185ec1d3f05" id="project" preftype="project">
+  <long id="prefs_version">1</long>
+</preference-set>
+</project>
